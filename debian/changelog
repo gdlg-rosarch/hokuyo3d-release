@@ -1,0 +1,39 @@
+ros-indigo-hokuyo3d (0.1.1-1trusty) trusty; urgency=high
+
+  * updates e-mail address of the author
+  * adds error-message packet handling
+  * Merge branch 'lgerardSRI-master'
+  * Install the hokuyo3d executable
+  * Contributors: Atsushi Watanabe, Leonard Gerard
+
+ -- Atsushi Watanabe <atsushi.w@ieee.org>  Wed, 14 Sep 2016 15:00:00 -0000
+
+ros-indigo-hokuyo3d (0.1.0-1trusty) trusty; urgency=high
+
+  * direct PointCloud2 message encoding
+  * adds list of contributors
+  * adds feature to publish PointCloud2 message
+    "~/hokuyo_cloud" and "~/hokuyo_cloud2" are published on demand.
+    Added pursuant to yukkysaito's request.
+  * adds parameter to set data output cycle
+    ~output_cycle (string, default: field)
+    Sets output timing to end of frame, field or line.
+    Added pursuant to yukkysaito's request.
+  * Add invalid range parameter
+    This commit is modified for merging by at-wat.
+    Parameter name invalid_range was changed to range_min.
+  * fixes a bug in which output data doesn't have all points
+    Fixed pursuant to yukkysaito's report.
+  * code refactoring
+  * skips invalid data without 'VSSP' mark
+  * stops data stream correctly before exit
+  * scales aux data
+  * estimates real measurement time from timestamp
+  * receives aux data and publishes Imu and MagneticField message
+  * add README.md
+  * Initial commit
+  * Contributors: Atsushi Watanabe, yukihiro saito
+
+ -- Atsushi Watanabe <atsushi.w@atr.jp>  Thu, 23 Apr 2015 15:00:00 -0000
+
+
