@@ -1,3 +1,26 @@
+## hokuyo3d (jade) - 0.1.1-1
+
+The packages in the `hokuyo3d` repository were released into the `jade` distro by running `/usr/bin/bloom-release hokuyo3d --track jade --rosdistro jade --new-track` on `Fri, 16 Sep 2016 08:59:08 -0000`
+
+The `hokuyo3d` package was released.
+
+Version of package(s) in repository `hokuyo3d`:
+
+- upstream repository: https://github.com/at-wat/hokuyo3d.git
+- release repository: unknown
+- rosdistro version: `null`
+- old version: `0.1.1-0`
+- new version: `0.1.1-1`
+
+Versions of tools used:
+
+- bloom version: `0.5.22`
+- catkin_pkg version: `0.2.10`
+- rosdep version: `0.11.5`
+- rosdistro version: `0.4.7`
+- vcstools version: `0.1.39`
+
+
 ## hokuyo3d (jade) - 0.1.1-0
 
 The packages in the `hokuyo3d` repository were released into the `jade` distro by running `/usr/bin/bloom-release hokuyo3d --track jade --rosdistro jade --new-track` on `Fri, 16 Sep 2016 08:53:03 -0000`
