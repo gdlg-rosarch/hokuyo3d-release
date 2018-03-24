@@ -1,3 +1,26 @@
+## hokuyo3d (indigo) - 0.2.0-0
+
+The packages in the `hokuyo3d` repository were released into the `indigo` distro by running `/usr/local/bin/bloom-release hokuyo3d --track indigo --ros-distro indigo` on `Sat, 24 Mar 2018 14:24:17 -0000`
+
+The `hokuyo3d` package was released.
+
+Version of package(s) in repository `hokuyo3d`:
+
+- upstream repository: https://github.com/at-wat/hokuyo3d.git
+- release repository: https://github.com/at-wat/hokuyo3d-release.git
+- rosdistro version: `0.1.1-1`
+- old version: `0.1.1-1`
+- new version: `0.2.0-0`
+
+Versions of tools used:
+
+- bloom version: `0.6.4`
+- catkin_pkg version: `0.4.1`
+- rosdep version: `0.11.8`
+- rosdistro version: `0.6.2`
+- vcstools version: `0.1.39`
+
+
 ## hokuyo3d (kinetic) - 0.2.0-0
 
 The packages in the `hokuyo3d` repository were released into the `kinetic` distro by running `/home/atsushi.w/.local/bin/bloom-release hokuyo3d --track kinetic --rosdistro kinetic` on `Sat, 24 Mar 2018 13:40:38 -0000`
