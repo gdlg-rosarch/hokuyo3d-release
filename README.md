@@ -1,3 +1,26 @@
+## hokuyo3d (kinetic) - 0.2.0-0
+
+The packages in the `hokuyo3d` repository were released into the `kinetic` distro by running `/home/atsushi.w/.local/bin/bloom-release hokuyo3d --track kinetic --rosdistro kinetic` on `Sat, 24 Mar 2018 13:40:38 -0000`
+
+The `hokuyo3d` package was released.
+
+Version of package(s) in repository `hokuyo3d`:
+
+- upstream repository: https://github.com/at-wat/hokuyo3d.git
+- release repository: https://github.com/at-wat/hokuyo3d-release.git
+- rosdistro version: `0.1.1-0`
+- old version: `0.1.1-0`
+- new version: `0.2.0-0`
+
+Versions of tools used:
+
+- bloom version: `0.6.4`
+- catkin_pkg version: `0.4.1`
+- rosdep version: `0.12.1`
+- rosdistro version: `0.6.8`
+- vcstools version: `0.1.40`
+
+
 ## hokuyo3d (kinetic) - 0.1.1-0
 
 The packages in the `hokuyo3d` repository were released into the `kinetic` distro by running `/usr/bin/bloom-release hokuyo3d --track kinetic --rosdistro kinetic --new-track` on `Fri, 16 Sep 2016 09:07:34 -0000`
